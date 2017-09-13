@@ -6,14 +6,10 @@
 
 Upload file from the UI at the root.
 ```text
-https://file-metadata-r282.herokuapp.com
+https://huy1995filemetadata.herokuapp.com/
 ```
 
 ## Example query output:
-
-```text
-https://huy1995filemetadata.herokuapp.com/
-```
 
 ```js
 The file you have uploaded has 15946 bytes.
